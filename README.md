@@ -6,7 +6,7 @@
 
 目录
 ---
-- [PQ] Product Quantization for Nearest Neighbor Search (Jégou & al. TPAMI 2011.)
+- [[PQ] Product Quantization for Nearest Neighbor Search (Jégou & al. TPAMI 2011.)](./papers/Product_Quantization_for_Nearest_Neighbor_Search.pdf)
 
 ## 什么是近似最近邻搜索？
 
