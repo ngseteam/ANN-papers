@@ -10,6 +10,7 @@
 - [[PQ] Product Split Trees (Babenko & Lempitsky. CVPR 2017.)](./papers/Product_Split_Trees.pdf)
 - [[IVF] The Inverted Multi-index (Babenko & Lempitsky. TPAMI 2015.)](./papers/The_Inverted_Multi-Index.pdf)
 - [[OPQ] Locally Optimized Product Quantization for Approximate Nearest Neighbor Search (Kalantidis & Avrithis. CVPR 2014)](./papers/Locally_Optimized_Product_Quantization_for_Approximate_Nearest_Neighbor_Search.pdf)
+- [[PQ] Additive Quantization for Extreme Vector Compression (Babenko & Lempitsky. CVPR 2014.)](./papers/Additive_Quantization_for_Extreme_Vector_Compression.pdf)
 
 ## 什么是近似最近邻搜索？
 
