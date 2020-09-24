@@ -9,8 +9,10 @@
 - [[PQ] Product Quantization for Nearest Neighbor Search (Jégou & al. TPAMI 2011.)](./papers/Product_Quantization_for_Nearest_Neighbor_Search.pdf)
 - [[PQ] Product Split Trees (Babenko & Lempitsky. CVPR 2017.)](./papers/Product_Split_Trees.pdf)
 - [[IVF] The Inverted Multi-index (Babenko & Lempitsky. TPAMI 2015.)](./papers/The_Inverted_Multi-Index.pdf)
-- [[OPQ] Locally Optimized Product Quantization for Approximate Nearest Neighbor Search (Kalantidis & Avrithis. CVPR 2014)](./papers/Locally_Optimized_Product_Quantization_for_Approximate_Nearest_Neighbor_Search.pdf)
+- [[OPQ] Locally Optimized Product Quantization for Approximate Nearest Neighbor Search (Kalantidis & Avrithis. CVPR 2014.)](./papers/Locally_Optimized_Product_Quantization_for_Approximate_Nearest_Neighbor_Search.pdf)
 - [[PQ] Additive Quantization for Extreme Vector Compression (Babenko & Lempitsky. CVPR 2014.)](./papers/Additive_Quantization_for_Extreme_Vector_Compression.pdf)
+- [[IVF] Efficient Indexing of Billion-scale Datasets of Deep Descriptors (Babenko & Lempitsky. CVPR 2016.)](./papers/Efficient_Indexing_of_Billion-Scale_datasets_of_deep_descriptors.pdf)
+- [[PQ] Tree Quantization for Large-scale Similarity Search and Classification (Babenko & Lempitsky. CVPR 2015.)](./papers/Tree_Quantization_for_Large-Scale_Similarity_Search_and_Classification.pdf)
 
 ## 什么是近似最近邻搜索？
 
