@@ -8,14 +8,15 @@
 ---
 |序号|PDF|  论文  |  阅读笔记  |   Slides/Keynote   |
 |:----:|:---:| ---- | ---- |:----:|
-|1|[PQ](./papers/Product_Quantization_for_Nearest_Neighbor_Search.pdf)|  Product Quantization for Nearest Neighbor Search (Jégou & al. TPAMI 2011.)|   [pq.pdf](./notes/PQ.pdf) [pq.md](./notes/PQ.md)| [pq_yx_bosszou_20200826](slides/PQ_sharing_yx_bosszou_20200826.pdf) |
+|1|[PQ](./papers/Product_Quantization_for_Nearest_Neighbor_Search.pdf)|  Product Quantization for Nearest Neighbor Search (Jégou & al. TPAMI 2011.)|   [pq.pdf](./notes/PQ.pdf) [pq.md](./notes/PQ.md)| [pq_yx_bosszou_20200826](slides/PQ_sharing_yx_bosszou_20200826.pdf) [PQ_sharing_cqx_yk_20200826](slides/PQ_sharing_cqx_yk_20200826.pdf)|
 |2|[PSTree](./papers/Product_Split_Trees.pdf)| Product Split Trees (Babenko & Lempitsky. CVPR 2017.)|     |      |
 |3|[IMI](./papers/The_Inverted_Multi-Index.pdf)| The Inverted Multi-index (Babenko & Lempitsky. TPAMI 2015.)|      |      |
 |4|[LOPQ](./papers/Locally_Optimized_Product_Quantization_for_Approximate_Nearest_Neighbor_Search.pdf)| Locally Optimized Product Quantization for Approximate Nearest Neighbor Search (Kalantidis & Avrithis. CVPR 2014.)|||
 |5|[AQ](./papers/Additive_Quantization_for_Extreme_Vector_Compression.pdf)| Additive Quantization for Extreme Vector Compression (Babenko & Lempitsky. CVPR 2014.)|||
-|6|[IVF](./papers/Efficient_Indexing_of_Billion-Scale_datasets_of_deep_descriptors.pdf)|Efficient Indexing of Billion-scale Datasets of Deep Descriptors (Babenko & Lempitsky. CVPR 2016.)|||
+|6|[NO_IMI](./papers/Efficient_Indexing_of_Billion-Scale_datasets_of_deep_descriptors.pdf)|Efficient Indexing of Billion-scale Datasets of Deep Descriptors (Babenko & Lempitsky. CVPR 2016.)|| [slides/Revisiting_inverted_index_sharing_cqx_yk_20200926](slides/Revisiting_inverted_index_sharing_cqx_yk_20200926.pdf) |
 |7|[TQ](./papers/Tree_Quantization_for_Large-Scale_Similarity_Search_and_Classification.pdf)| Tree Quantization for Large-scale Similarity Search and Classification (Babenko & Lempitsky. CVPR 2015.)|||
 |8|[OPQ](./papers/Optimized_Product_Quantization.pdf)|Optimized Product Quantization (Ge, He, Ke & Sun. TPAMI 2013)|||
+|8|[RE_IVF](./papers/Revisiting_the_Inverted_Indices_for_Billion-Scale_Approximate_Nearest_Neighbors.pdf)|Revisiting the Inverted Indices for Billion-Scale Approximate Nearest Neighbors (Baranchuk, Dmitry, Babenko & Malkov. ECCV 2018)||[Revisiting_inverted_index](/slides/Revisiting_inverted_index_sharing_cqx_yk_20200926.pdf)|
 
 
 
