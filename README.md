@@ -1,18 +1,22 @@
 # 近似最近邻搜索的论文、阅读笔记与实现分享
 
-这里是一些近似最近邻搜索相关的论文、我们阅读过程中产生的笔记，以及论文中算法的简单实现。
+这里是一些近似最近邻搜索相关的论文、我们阅读过程中产生的[笔记](./notes)，以及论文中算法的简单实现。
 在这里记录和分享，希望能为对近似近邻搜索感兴趣的同学带来帮助。
 所有资料均来自于互联网，如有侵权，请联系我们。
 
 目录
 ---
-- [[PQ] Product Quantization for Nearest Neighbor Search (Jégou & al. TPAMI 2011.)](./papers/Product_Quantization_for_Nearest_Neighbor_Search.pdf)
-- [[PQ] Product Split Trees (Babenko & Lempitsky. CVPR 2017.)](./papers/Product_Split_Trees.pdf)
-- [[IVF] The Inverted Multi-index (Babenko & Lempitsky. TPAMI 2015.)](./papers/The_Inverted_Multi-Index.pdf)
-- [[OPQ] Locally Optimized Product Quantization for Approximate Nearest Neighbor Search (Kalantidis & Avrithis. CVPR 2014.)](./papers/Locally_Optimized_Product_Quantization_for_Approximate_Nearest_Neighbor_Search.pdf)
-- [[PQ] Additive Quantization for Extreme Vector Compression (Babenko & Lempitsky. CVPR 2014.)](./papers/Additive_Quantization_for_Extreme_Vector_Compression.pdf)
-- [[IVF] Efficient Indexing of Billion-scale Datasets of Deep Descriptors (Babenko & Lempitsky. CVPR 2016.)](./papers/Efficient_Indexing_of_Billion-Scale_datasets_of_deep_descriptors.pdf)
-- [[PQ] Tree Quantization for Large-scale Similarity Search and Classification (Babenko & Lempitsky. CVPR 2015.)](./papers/Tree_Quantization_for_Large-Scale_Similarity_Search_and_Classification.pdf)
+|序号|PDF|  论文  |  阅读笔记  |   PPT/Kenote   |
+|:----:|:---:| ---- | ---- |:----:|
+|1|[PQ](./papers/Product_Quantization_for_Nearest_Neighbor_Search.pdf)|  Product Quantization for Nearest Neighbor Search (Jégou & al. TPAMI 2011.)|   [pq.pdf](./notes/PQ.pdf) [pq.md](./notes/PQ.md)|      |
+|2|[PSTree](./papers/Product_Split_Trees.pdf)| Product Split Trees (Babenko & Lempitsky. CVPR 2017.)|     |      |
+|3|[IMI](./papers/The_Inverted_Multi-Index.pdf)| The Inverted Multi-index (Babenko & Lempitsky. TPAMI 2015.)|      |      |
+|4|[OPQ](./papers/Locally_Optimized_Product_Quantization_for_Approximate_Nearest_Neighbor_Search.pdf)| Locally Optimized Product Quantization for Approximate Nearest Neighbor Search (Kalantidis & Avrithis. CVPR 2014.)|||
+|5|[AQ](./papers/Additive_Quantization_for_Extreme_Vector_Compression.pdf)| Additive Quantization for Extreme Vector Compression (Babenko & Lempitsky. CVPR 2014.)|||
+|6|[IVF](./papers/Efficient_Indexing_of_Billion-Scale_datasets_of_deep_descriptors.pdf)|Efficient Indexing of Billion-scale Datasets of Deep Descriptors (Babenko & Lempitsky. CVPR 2016.)|||
+|7|[TQ](./papers/Tree_Quantization_for_Large-Scale_Similarity_Search_and_Classification.pdf)| Tree Quantization for Large-scale Similarity Search and Classification (Babenko & Lempitsky. CVPR 2015.)|||
+
+
 
 ## 什么是近似最近邻搜索？
 
