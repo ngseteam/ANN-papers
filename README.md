@@ -1,14 +1,14 @@
 # 近似最近邻搜索的论文、阅读笔记与实现分享
 
-这里是一些近似最近邻搜索相关的论文、我们阅读过程中产生的[笔记](./notes)，以及论文中算法的简单实现。
+这里是一些近似最近邻搜索相关的论文、我们阅读过程中产生的[笔记](./notes)，分享时制作的[Slides](./slides)，以及论文中算法的简单实现。
 在这里记录和分享，希望能为对近似近邻搜索感兴趣的同学带来帮助。
 所有资料均来自于互联网，如有侵权，请联系我们。
 
 目录
 ---
-|序号|PDF|  论文  |  阅读笔记  |   PPT/Kenote   |
+|序号|PDF|  论文  |  阅读笔记  |   Slides/Keynote   |
 |:----:|:---:| ---- | ---- |:----:|
-|1|[PQ](./papers/Product_Quantization_for_Nearest_Neighbor_Search.pdf)|  Product Quantization for Nearest Neighbor Search (Jégou & al. TPAMI 2011.)|   [pq.pdf](./notes/PQ.pdf) [pq.md](./notes/PQ.md)|      |
+|1|[PQ](./papers/Product_Quantization_for_Nearest_Neighbor_Search.pdf)|  Product Quantization for Nearest Neighbor Search (Jégou & al. TPAMI 2011.)|   [pq.pdf](./notes/PQ.pdf) [pq.md](./notes/PQ.md)| [pq_yx_bosszou_20200826](slides/PQ_sharing_yx_bosszou_20200826.pdf) |
 |2|[PSTree](./papers/Product_Split_Trees.pdf)| Product Split Trees (Babenko & Lempitsky. CVPR 2017.)|     |      |
 |3|[IMI](./papers/The_Inverted_Multi-Index.pdf)| The Inverted Multi-index (Babenko & Lempitsky. TPAMI 2015.)|      |      |
 |4|[LOPQ](./papers/Locally_Optimized_Product_Quantization_for_Approximate_Nearest_Neighbor_Search.pdf)| Locally Optimized Product Quantization for Approximate Nearest Neighbor Search (Kalantidis & Avrithis. CVPR 2014.)|||
