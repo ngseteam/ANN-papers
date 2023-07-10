@@ -101,7 +101,7 @@ $$
 
 ![pq_recall_memory_ADC](pictures/pq_recall_memory_ADC.png)
 
-![pq_recall_memory_IVFADC](/Users/othert/Documents/GitHub/ANN-papers/notes/pictures/pq_recall_memory_IVFADC.png)
+![pq_recall_memory_IVFADC](pictures/pq_recall_memory_IVFADC.png)
 
 code length 就是存储 1 个量化之后的向量需要的内存空间，论文追求的目标是使用尽可能小的内存空间达到尽可能高的召回率。从实验效果来看，比较推荐的参数选择是 *ADC: m = 8, k\* = 64; SDC: m = 8, k\*=256*。对 IVFADC 来说，*k'*大一些召回率更好
 
